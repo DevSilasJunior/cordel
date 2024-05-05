@@ -49,7 +49,6 @@ section{
 }
 section.branco{
     background-color: rgb(255, 255, 255);
-
 }
 section.branco > p{
     margin-top: 75px;
